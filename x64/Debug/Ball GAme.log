@@ -1,0 +1,49 @@
+﻿  Scene.cpp
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(82,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(219,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(241,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(244,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(266,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(267,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(268,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(269,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(454,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(455,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(456,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(486,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(489,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(489,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(490,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(490,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(490,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(494,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(494,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(503,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(503,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(504,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(504,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(512,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(512,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(514,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(514,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(516,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(516,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(516,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(520,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(522,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(522,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(639,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(639,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(639,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(640,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(891,32): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(903,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(910,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(924,61): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(925,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(926,61): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(931,64): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(932,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(933,64): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Projects\Cricket Stadium\Ball GAme\Scene.cpp(1014,16): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Ball GAme.vcxproj -> F:\Projects\Cricket Stadium\x64\Debug\Ball Game.exe
